@@ -1,3 +1,4 @@
+package edu.mcc.codeschool.hello;
 
 public class HelloWorld {
   public static void main(String args[]){
