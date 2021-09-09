@@ -7,7 +7,7 @@ git clone https://gitlab.mccinfo.net/code-school/course-work/pi1/hello-world.git
 ```
 * Import into your IntelliJ
 ```
-Go to File -> Project Structure -> Modules -> Plus Button at the top
+Go to File -> Project Structure -> Modules -> Plus Button at the top -> Import Module
 Find the HelloWorld.iml file pulled down from git
 ```
 * Double Click on Hello World
