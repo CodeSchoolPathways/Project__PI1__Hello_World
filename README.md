@@ -3,7 +3,7 @@
 Each of you need to do the following:
 * Clone this repo onto your local machine in the directory of your choice like so:
 ```
-git clone https://gitlab.mccinfo.net/code-school/course-work/pi1/hello-world.git
+git clone https://gitlab.mccinfo.net/code-school/cohort-4/pi1/hello-world.git
 ```
 * Import into your IntelliJ
 ```
