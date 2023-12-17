@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../assets/metro.png" alt="Metropolitan Community College"/>
+    <img src="/assets/metro.png" alt="Metropolitan Community College"/>
 </div>
 
 <div align="center">
